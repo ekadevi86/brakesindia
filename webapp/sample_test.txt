@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Sample test file transfer
 from BAS
+=======
+Sample test file transfer final from vs code
+>>>>>>> f1ac86bd56b3afe026e5e5d6910b3d1871497e97
