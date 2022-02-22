@@ -77,6 +77,7 @@ sap.ui.define([
                 "DIM_UNIT" : "CM"
                 }
                 });
+                
             this.getView().byId("idSave").setText("Create");
             this.mode = "create";
             this.getView().byId("idSuppname").setText("");

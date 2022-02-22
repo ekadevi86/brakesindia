@@ -19,7 +19,8 @@ controllerName="tcs.fin.payroll.controller.Add">
 			columnsXL="1"
 			columnsL="1"
 			columnsM="1"
-			singleContainerFullSize="false" >
+			 singleContainerFullSize="true" >
+			 
 			<f:content>
 				<Label text="Product Id" />
 				<Input id="PID" value="{local>/productData/PRODUCT_ID}" change="onEnter"/>
